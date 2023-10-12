@@ -14,7 +14,7 @@ Webpack is a setup project that builds a simple yet powerful webpack boilerplate
 # Hosting Platform
 -Github (https://oluwatosin0.github.io/Webpack/)
 
-                         )
+                         
 
 # 👤 Author
 
